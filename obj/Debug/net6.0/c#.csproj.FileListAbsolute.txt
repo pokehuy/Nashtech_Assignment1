@@ -1,0 +1,15 @@
+C:\Users\huy\Desktop\coding\Rookies\c#\bin\Debug\net6.0\c#.exe
+C:\Users\huy\Desktop\coding\Rookies\c#\bin\Debug\net6.0\c#.deps.json
+C:\Users\huy\Desktop\coding\Rookies\c#\bin\Debug\net6.0\c#.runtimeconfig.json
+C:\Users\huy\Desktop\coding\Rookies\c#\bin\Debug\net6.0\c#.dll
+C:\Users\huy\Desktop\coding\Rookies\c#\bin\Debug\net6.0\ref\c#.dll
+C:\Users\huy\Desktop\coding\Rookies\c#\bin\Debug\net6.0\c#.pdb
+C:\Users\huy\Desktop\coding\Rookies\c#\obj\Debug\net6.0\c#.csproj.AssemblyReference.cache
+C:\Users\huy\Desktop\coding\Rookies\c#\obj\Debug\net6.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huy\Desktop\coding\Rookies\c#\obj\Debug\net6.0\c#.AssemblyInfoInputs.cache
+C:\Users\huy\Desktop\coding\Rookies\c#\obj\Debug\net6.0\c#.AssemblyInfo.cs
+C:\Users\huy\Desktop\coding\Rookies\c#\obj\Debug\net6.0\c#.csproj.CoreCompileInputs.cache
+C:\Users\huy\Desktop\coding\Rookies\c#\obj\Debug\net6.0\c#.dll
+C:\Users\huy\Desktop\coding\Rookies\c#\obj\Debug\net6.0\ref\c#.dll
+C:\Users\huy\Desktop\coding\Rookies\c#\obj\Debug\net6.0\c#.pdb
+C:\Users\huy\Desktop\coding\Rookies\c#\obj\Debug\net6.0\c#.genruntimeconfig.cache
