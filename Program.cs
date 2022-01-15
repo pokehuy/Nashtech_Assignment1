@@ -4,6 +4,7 @@ using System.Collections.Generic;
 
 namespace Assignment1
 {
+    // class Member 
     public class Member
     {
         public string FirstName { get; set; }
@@ -15,6 +16,7 @@ namespace Assignment1
         public int Age { get; set; }
         public bool IsGraduated { get; set; }
 
+        //Constructor
         public Member(string fn, string ln, string gd, int dob, string p, string bp, bool ig)
         {
             FirstName = fn;
@@ -29,7 +31,7 @@ namespace Assignment1
         
         public override string ToString()
         {
-            return string.Format("Fullname: {0} {1},Gender: {2},DoB: {3},Phone: {4},BirthPlace: {5},Age: {6} Graduated: {7}", FirstName, LastName, Gender, DateOfBirth, PhoneNumber, BirthPlace, Age, (IsGraduated == false) ? "No" : "Yes");
+            return string.Format("Fullname: {0} {1}, Gender: {2}, DoB: {3}, Phone: {4}, BirthPlace: {5}, Age: {6}, Graduated: {7}", FirstName, LastName, Gender, DateOfBirth, PhoneNumber, BirthPlace, Age, (IsGraduated == false) ? "No" : "Yes");
         }
         
     }
@@ -112,6 +114,8 @@ namespace Assignment1
             }
             return list[i];
         }
+
+        //Main
         static void Main(string[] args)
         {
             List<Member> cl = new List<Member>();
