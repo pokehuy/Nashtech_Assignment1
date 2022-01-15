@@ -108,14 +108,11 @@ namespace Assignment1
                     case 2000:
                         is2000.Add(m);
                         break;
-                    default:
-                        if(m.DateOfBirth < 2000)
-                        {
-                            under2000.Add(m);
-                        } else
-                        {
-                            over2000.Add(m);
-                        }
+                    case < 2000:
+                        under2000.Add(m);
+                        break;
+                    case > 2000:
+                        over2000.Add(m);
                         break;
                 }
             }
